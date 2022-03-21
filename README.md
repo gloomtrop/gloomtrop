@@ -7,19 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/gloomtrop">
-    <img src="https://svgur.com/i/TKs.svg" width="24px"/>
-  </a>
-  &emsp;
-  <a href="https://buymeacoffee.com/gloomtrop">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="30px"/>
-  </a> 
-  &emsp;
-  <a href="https://pufler.dev">
-    <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://linkedin.com/in/julianpufler">
+  <a href="https://linkedin.com/in/axelrooth">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
   <br><br>
