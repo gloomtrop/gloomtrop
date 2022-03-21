@@ -13,6 +13,9 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
+  <strong>My current participation project 🎶🎹🤖</strong>
+  <a href = https://sites.google.com/view/appliedmllab/projectssubpages/xai-for-music> XAI for music</a>
+  <br><br>
 </p>
 
 <!--
