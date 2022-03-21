@@ -10,6 +10,9 @@
   <a href="https://linkedin.com/in/axel-rooth">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
+  <a href="https://linkedin.com/in/axel-rooth">
+    <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
+  </a>
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
