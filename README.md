@@ -11,10 +11,6 @@
     <img src="https://svgur.com/i/TKs.svg" width="24px"/>
   </a>
   &emsp;
-  <a href= "https://instagram.com/pufler.dev">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
-  </a>
-  &emsp;
   <a href="https://buymeacoffee.com/gloomtrop">
     <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="30px"/>
   </a> 
