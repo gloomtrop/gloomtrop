@@ -13,21 +13,6 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/gloomtrop/gloomtrop?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/gloomtrop?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/gloomtrop?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/gloomtrop?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/gloomtrop?style=flat-square&color=black&logo=github&a=0">
-  </a>
 </p>
 
 <!--
