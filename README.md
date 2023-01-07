@@ -14,7 +14,7 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <strong>My current project participation 🎶🎹🤖</strong>
-  <a href = https://sites.google.com/view/appliedmllab/projectssubpages/xai-for-music> XAI for music</a>
+  <a href = https://dink.eu.pythonanywhere.com/> DINK</a>
   <br><br>
 </p>
 
