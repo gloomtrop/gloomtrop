@@ -16,7 +16,7 @@
   <strong>My previous project participation 🎶🎹🤖</strong>
   <a href = https://sites.google.com/view/appliedmllab/projectssubpages/xai-for-music/> XAI for Music</a>
   <br><br>
-  <strong>My current project participation 🎶🎹🤖</strong>
+  <strong>My current project participation 🥝🌶📊</strong>
   <a href = https://dink.eu.pythonanywhere.com/> DINK</a>
   <br><br>
 </p>
